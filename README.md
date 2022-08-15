@@ -4,7 +4,7 @@
 - 👀 estou interresada em aprender nova linguaguens de programaçao
 - 💞️ estou colaborando com as aulas de pesamento computasional 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ja apredi scracth e jave script
 -📫meu email é almeida.helen@escola.pr.gov.br
 <!---
